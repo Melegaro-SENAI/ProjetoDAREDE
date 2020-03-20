@@ -1,0 +1,2 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Dominio\obj\Debug\Senai.ProjetoDAREDE.Dominio.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Dominio\obj\Debug\Senai.ProjetoDAREDE.Dominio.csproj.CoreCompileInputs.cache

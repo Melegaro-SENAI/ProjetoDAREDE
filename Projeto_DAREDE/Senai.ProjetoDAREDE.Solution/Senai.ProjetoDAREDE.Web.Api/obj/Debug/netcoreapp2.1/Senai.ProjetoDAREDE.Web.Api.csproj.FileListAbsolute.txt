@@ -1,0 +1,12 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Web.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Web.Api\bin\Debug\netcoreapp2.1\Senai.ProjetoDAREDE.Web.Api.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Web.Api\bin\Debug\netcoreapp2.1\Senai.ProjetoDAREDE.Web.Api.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Web.Api\bin\Debug\netcoreapp2.1\Senai.ProjetoDAREDE.Web.Api.runtimeconfig.dev.json
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Web.Api\bin\Debug\netcoreapp2.1\Senai.ProjetoDAREDE.Web.Api.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Web.Api\obj\Debug\netcoreapp2.1\Senai.ProjetoDAREDE.Web.Api.csprojAssemblyReference.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Web.Api\obj\Debug\netcoreapp2.1\Senai.ProjetoDAREDE.Web.Api.RazorAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Web.Api\obj\Debug\netcoreapp2.1\Senai.ProjetoDAREDE.Web.Api.RazorAssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Web.Api\obj\Debug\netcoreapp2.1\Senai.ProjetoDAREDE.Web.Api.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Web.Api\obj\Debug\netcoreapp2.1\Senai.ProjetoDAREDE.Web.Api.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Web.Api\obj\Debug\netcoreapp2.1\Senai.ProjetoDAREDE.Web.Api.RazorTargetAssemblyInfo.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\Projeto_DAREDE\Senai.ProjetoDAREDE.Solution\Senai.ProjetoDAREDE.Web.Api\obj\Debug\netcoreapp2.1\Senai.ProjetoDAREDE.Web.Api.genruntimeconfig.cache
