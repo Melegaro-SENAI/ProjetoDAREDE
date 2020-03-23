@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Test.XUnit\\Senai.ProjetoDAREDE.Test.XUnit.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoDAREDE\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Test.XUnit\\Senai.ProjetoDAREDE.Test.XUnit.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Test.XUnit\\Senai.ProjetoDAREDE.Test.XUnit.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoDAREDE\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Test.XUnit\\Senai.ProjetoDAREDE.Test.XUnit.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Test.XUnit\\Senai.ProjetoDAREDE.Test.XUnit.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoDAREDE\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Test.XUnit\\Senai.ProjetoDAREDE.Test.XUnit.csproj",
         "projectName": "Senai.ProjetoDAREDE.Test.XUnit",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Test.XUnit\\Senai.ProjetoDAREDE.Test.XUnit.csproj",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoDAREDE\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Test.XUnit\\Senai.ProjetoDAREDE.Test.XUnit.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Test.XUnit\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoDAREDE\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Test.XUnit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -124,11 +124,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Contextos\ProjetoDAREDEContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Senai.ProjetoDAREDE.Dominio\Senai.ProjetoDAREDE.Dominio.csproj">
+      <Project>{628A091D-BBD7-4497-B85C-8515C7A422C8}</Project>
+      <Name>Senai.ProjetoDAREDE.Dominio</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

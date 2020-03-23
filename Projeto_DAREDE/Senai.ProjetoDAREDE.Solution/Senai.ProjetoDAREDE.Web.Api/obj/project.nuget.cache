@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "44nd+vR8j6miHJQDHpTgJdjN7ldaGLCOEXZhwT59RPao6ck8vjjy8nBw0ENI2ZQqJyN4Mn5GHzQEEMKv0+Y66g==",
+  "dgSpecHash": "pGaxyh3A+ZmfkkTvBkznnpZ290ece04fv5j8MndF4hs4cLwexleaVPrlVK8ai878KLqgDytfUpa6Uqdg18/3pA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Web.Api\\Senai.ProjetoDAREDE.Web.Api.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoDAREDE\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Web.Api\\Senai.ProjetoDAREDE.Web.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore\\2.1.1\\microsoft.aspnetcore.2.1.1.nupkg.sha512",

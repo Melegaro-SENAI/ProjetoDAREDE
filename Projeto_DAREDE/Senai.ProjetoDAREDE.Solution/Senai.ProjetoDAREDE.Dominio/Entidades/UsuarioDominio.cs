@@ -30,12 +30,11 @@ namespace Senai.ProjetoDAREDE.Dominio.Entidades
         [Column("Nome da Empresa", TypeName = "Varchar(200)")]
         public string NomeEmpresa { get; set; }
 
-        // Estava em duvida de como definir se é string ou outra coisa, por ser select
-        //[Required]
-        //[Column("Tipo da Empresa", TypeName = "")]
-
         
-        
+        [Required]
+        [Column("Tipo da Empresa", TypeName = "Varchar(300)")]
+        public string TipoEmpresa { get; set; }
+      
         // Se for o Grupo de empresas continuar abaixo.
     
         [Required]

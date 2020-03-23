@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NFClpEx54xG3a3yvPf3Oz0/jGYfRhYJsa5qYrKsdBITUxtTd5iYxOHaHCLSPLCNU0I45BEr+cj6UueCk+alSCQ==",
+  "dgSpecHash": "wE4A1drBT9Ag+8ddHZpkfSJOKXoZ5PJppMtri+0FirjQU9exwUmz5gXMEX5o7xrDnza/rIMxo73QYCU9RNBr2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Test.XUnit\\Senai.ProjetoDAREDE.Test.XUnit.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoDAREDE\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Test.XUnit\\Senai.ProjetoDAREDE.Test.XUnit.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.codecoverage\\16.2.0\\microsoft.codecoverage.16.2.0.nupkg.sha512",

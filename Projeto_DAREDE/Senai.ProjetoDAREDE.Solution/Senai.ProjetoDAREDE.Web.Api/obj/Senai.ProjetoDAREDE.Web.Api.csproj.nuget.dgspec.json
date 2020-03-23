@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Web.Api\\Senai.ProjetoDAREDE.Web.Api.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoDAREDE\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Web.Api\\Senai.ProjetoDAREDE.Web.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Web.Api\\Senai.ProjetoDAREDE.Web.Api.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoDAREDE\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Web.Api\\Senai.ProjetoDAREDE.Web.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Web.Api\\Senai.ProjetoDAREDE.Web.Api.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoDAREDE\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Web.Api\\Senai.ProjetoDAREDE.Web.Api.csproj",
         "projectName": "Senai.ProjetoDAREDE.Web.Api",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Web.Api\\Senai.ProjetoDAREDE.Web.Api.csproj",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoDAREDE\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Web.Api\\Senai.ProjetoDAREDE.Web.Api.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Web.Api\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoDAREDE\\Projeto_DAREDE\\Senai.ProjetoDAREDE.Solution\\Senai.ProjetoDAREDE.Web.Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
