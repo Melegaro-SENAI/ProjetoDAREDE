@@ -7,6 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
+using Senai.ProjetoDAREDE.WebApi;
 
 namespace Senai.ProjetoDAREDE.Web.Api
 {
