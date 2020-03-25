@@ -237,6 +237,7 @@
   <ItemGroup>
     <Compile Include="Contextos\ProjetoDAREDEContext.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositorios\ServicosRepositorio.cs" />
     <Compile Include="Repositorios\UsuarioRepositorio.cs" />
   </ItemGroup>
   <ItemGroup>

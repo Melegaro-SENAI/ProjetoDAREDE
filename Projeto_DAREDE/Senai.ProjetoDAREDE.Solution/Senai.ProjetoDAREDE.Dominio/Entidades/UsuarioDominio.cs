@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Senai.ProjetoDAREDE.Dominio.Entidades
 {
+    [Table("Usuario")]
     public class UsuarioDominio
     {
         [Key]
@@ -15,32 +16,43 @@ namespace Senai.ProjetoDAREDE.Dominio.Entidades
         public int Id { get; set; }
 
         [Required]
-        [Column("Nome", TypeName = "Varchar(150)")]
+        [Column("Nome", TypeName = "Varchar(255)")]
         public string Nome { get; set; }
 
         [Required]
-        [Column("Email", TypeName = "Varchar(150)")]
+        [Column("Email", TypeName = "Varchar(255)")]
         public string Email { get; set; }
 
         [Required]
-        [Column("Senha", TypeName = "Varchar(150)")]
+        [Column("Senha", TypeName = "Varchar(255)")]
         public string Senha { get; set; }
 
         [Required]
-        [Column("Nome da Empresa", TypeName = "Varchar(200)")]
+        [Column("CPF", TypeName = "Varchar(255)")]
+        public string CPF { get; set; }
+
+        [Required]
+        [Column("Nome da Empresa", TypeName = "Varchar(255)")]
         public string NomeEmpresa { get; set; }
 
-        
-        [Required]
-        [Column("Tipo da Empresa", TypeName = "Varchar(300)")]
-        public string TipoEmpresa { get; set; }
+        [ForeignKey("TipoCliente")]
+        public int IdTipoCliente { get; set; }
+
+        public TipoCliente TipoCliente { get; set; }
       
         // Se for o Grupo de empresas continuar abaixo.
     
         [Required]
-        [Column("Nome do Grupo", TypeName = "Varchar(200)")]
+        [Column("Nome do Grupo", TypeName = "Varchar(255)")]
         public string NomeGrupo { get; set; }
+        
+        [Column("Holding", TypeName = "Varchar(255)")]
+        public string Holding { get; set; }
 
-        // ainda falta a parte do holding, por que eu não entendi direto de como fazer o holding.
-    }   // e falta outra coluna especificando se e participante ou holding.
+        [ForeignKey("TipoHold")]
+        [Column("TipoHold", TypeName = "Varchar(255)")]
+        public string IdTipoHold { get; set; }
+
+        public TipoHold TipoHold { get; set; }
+    }   
 }

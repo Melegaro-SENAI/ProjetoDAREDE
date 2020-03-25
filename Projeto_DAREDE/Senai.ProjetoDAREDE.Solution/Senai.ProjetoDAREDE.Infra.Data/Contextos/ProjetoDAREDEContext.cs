@@ -31,10 +31,13 @@ namespace Senai.ProjetoDAREDE.Infra.Data.Contextos
                 Nome = "Flavio",
                 Email = "flavio.rescia@darede.com.br",
                 Senha = "123123",
+                CPF = "",
                 NomeEmpresa = "DAREDE",
-                TipoEmpresa = "",
+                IdTipoCliente = 1,
                 // se for em grupo continua abaixo.
                 NomeGrupo = "",
+                Holding = "",
+                IdTipoHold = "",
 
 
             });

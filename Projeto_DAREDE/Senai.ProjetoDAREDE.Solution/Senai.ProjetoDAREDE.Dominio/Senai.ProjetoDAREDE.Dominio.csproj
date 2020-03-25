@@ -235,7 +235,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entidades\ServicoDominio.cs" />
     <Compile Include="Entidades\UsuarioDominio.cs" />
+    <Compile Include="Interfaces\IServicosRepositorio.cs" />
     <Compile Include="Interfaces\IUsuarioRepositorio.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
