@@ -11,11 +11,13 @@ namespace Senai.ProjetoDAREDE.Infra.Data.Contextos
     public class ProjetoDAREDEContext : DbContext
     {
         public DbSet<UsuarioDominio> Usuarios { get; set; }
+        public DbSet<ServicosDominio> Servicos { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             if (!optionsBuilder.IsConfigured)
             {
+                //João => colocar as informações abaixo para usar o SQL Server
                 //optionsBuilder.UseSqlServer("")
             }
 

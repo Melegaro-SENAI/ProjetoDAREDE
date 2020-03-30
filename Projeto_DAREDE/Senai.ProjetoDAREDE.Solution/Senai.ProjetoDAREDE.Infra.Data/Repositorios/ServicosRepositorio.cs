@@ -49,17 +49,35 @@ namespace Senai.ProjetoDAREDE.Infra.Data.Repositorios
 
         public void Cadastrar(ServicosDominio servicos)
         {
-            throw new NotImplementedException();
+            try
+            {
+                _context.Servicos.Add(servicos);
+
+                _context.SaveChanges();
+            } 
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
         }
 
         public void Deletar(int id, ServicosDominio servicos)
         {
-            throw new NotImplementedException();
+            _context.Servicos.Remove(servicos);
+
+            _context.SaveChanges();
         }
 
         public List<ServicosDominio> Listar()
         {
-            throw new NotImplementedException();
+            try
+            {
+                return _context.Servicos.ToList();
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
         }
     }
 }
